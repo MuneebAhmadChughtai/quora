@@ -1,0 +1,11 @@
+.Widgets{
+    flex: 30%;
+}
+
+
+.Widgets__header{
+    margin: 10px 0px 5px 10px;
+    font-weight: 500;
+
+    
+}

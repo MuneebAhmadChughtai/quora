@@ -1,0 +1,33 @@
+.post__answer{
+    display: flex;
+}
+button{
+    border: none;
+    border-radius: 50%;
+    background-color: inherit;
+}
+
+.post__answerReplyInput{
+    background-color: inherit;
+    border: none;
+    border-bottom: 1px solid #111;
+    height: inherit;
+    width: 50px;
+    
+}
+
+.post__answerAuthorAndtext{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.post__answerAuthorAndtext > small{
+    font-weight: 600;
+}
+
+
+/* .post__answer small{
+    font-size: 10px;
+    white-space: 2px;
+} */
